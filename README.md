@@ -82,7 +82,7 @@ We hope you enjoy our app. :)
 
 Robert Arroyo [@R0Bone](https://github.com/R0Bone)<br>
 Breanna Bang [@breabang](https://github.com/breabang)<br>
-JP Canindo<br>
+JP Canindo [@Illuztrado](https://github.com/Illuztrado/)<br>
 Aaron Clamp [@ronaldconn](https://github.com/ronaldconn)<br>
 Terrashawn Starks <br>
 Jacob Willkomm [@JacobWillkomm](https://github.com/JacobWillkomm)<br>
